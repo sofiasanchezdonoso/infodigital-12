@@ -13,7 +13,7 @@
 5. Clase: Reptilia 
 6. Género: Homonota
 
-##### __1. Características morfológicas__
+__1. Características morfológicas__
 
 __1.1. Aspecto físico__
 
@@ -31,6 +31,8 @@ __1.2.Aspectos Reproductivos y Conductuales__
 * Sus huevos tienen una cubierta calcárea, son semiesféricos y son depositados bajo piedras.
 * En Chile, de las 86 especies terrestres, el 44% es ovípara y el 56% es vivípara. Para el caso de la ovíparas, las posturas fluctúan entre uno (Homonota gaudichaudii y Liolaemus bibronii) y más de 10 huevos (Philodryas chamissonis). Las especies vivíparas presentan camadas entre uno (Phymaturus palluma) y nueve crías (Liolaemus magellanicus). 
 
+Inline-style: 
+![alt text](https://github.com/Salamanqueja-del-Norte-Chico/infodigital-12/blob/67288a4905a2e6c8144181a9ee75180ab003b81e/img/mapa.jpeg "Logo Title Text 1")
 
 __1.3. Metabolismo__
 
